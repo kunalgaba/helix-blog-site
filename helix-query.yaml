@@ -4,7 +4,7 @@ version: 1
 indices:
   site:
     include:
-      - '/mysite/**'
+      - '/posts/**'
     exclude:
       - '**/Document.*'
     target: /query/query-index.xlsx
