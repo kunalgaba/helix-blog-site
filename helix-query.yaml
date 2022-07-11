@@ -7,7 +7,7 @@ indices:
       - '/posts/**'
     exclude:
       - '**/Document.*'
-    target: /query
+    target: /query/query-index.xlsx
     properties:
       author:
         select: head > meta[name="author"]
