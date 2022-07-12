@@ -2,6 +2,7 @@ import {
   decorateMain,
   loadBlocks,
 } from '../../scripts/scripts.js';
+
 export default async function decorate(block) {
   const ref = block.textContent.trim();
   const path = new URL(ref, window.location.href).pathname.split('.')[0];
