@@ -1,0 +1,4 @@
+example:
+    origin: https://kunalgaba.github.io
+    source: /query/query-index.json
+    destination: /sitemap-en.xml
