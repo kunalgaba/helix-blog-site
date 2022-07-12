@@ -1,6 +1,6 @@
 sitemaps:
   blog:
-    origin: https://main--helix-blog-site--kunalgaba.hlx.live/
+    origin: https://main--helix-blog-site--kunalgaba.hlx.live
     lastmod: YYYY-MM-DD
     languages:
       en:
