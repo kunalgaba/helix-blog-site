@@ -1,4 +1,4 @@
 example:
-    origin: https://kunalgaba.github.io
+    origin: https://main--helix-blog-site--kunalgaba.hlx.live/
     source: /query/query-index.json
     destination: /sitemap-en.xml
